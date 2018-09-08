@@ -2,3 +2,7 @@
 This is a project for training purposes
 
 I am currrently a first year graduate at Clemson University
+
+# new comment
+
+This modification is done from the terminal
